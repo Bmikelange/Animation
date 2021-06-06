@@ -8,7 +8,7 @@ Modèle masse ressort
 
 ## Animation de personnages
 c++ -> graphe d'animation
-Unity -> graphe d'animation + 
+Unity -> graphe d'animation + cinématique inverse : Fabrik
 
 ## Animation Interactive basée physique
 stabilité personnage 2D
